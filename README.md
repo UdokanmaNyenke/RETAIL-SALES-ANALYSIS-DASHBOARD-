@@ -3,6 +3,20 @@
 
 **Tool:** Microsoft Power BI Desktop | **Skills:** DAX, Data Modeling, Data Visualization, Business Insights
 
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](11d60387-56fe-46ca-8f04-315f2ed847d8.jpeg)
+
+### Product Report
+![Product Report](d185dfc6-344f-4a9f-a255-9876a8bff274.jpeg)
+
+### Customer Report
+![Customer Report](d416ae2c-ed74-4a1e-9ee3-9769156c1616.jpeg)
+
+### Employee Report
+![Employee Report](6ac22e19-97fe-4981-8744-01ef97cdbce3.jpeg)
+
 ## Project Overview
 An interactive, multi-page Power BI dashboard that analyzes retail sales performance across 2024 and 2025. It covers about 25,000 transactions and gives management a clear view of sales, discounts, products, customers, and employees across 7 Nigerian cities.
 
