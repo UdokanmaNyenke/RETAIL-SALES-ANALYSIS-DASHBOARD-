@@ -61,7 +61,7 @@ Star-schema model with a central sales fact table connected to customer, product
 - Writing business insights from data
 
 ## Project Demo
-[Watch the dashboard walkthrough on LinkedIn](https://www.linkedin.com/posts/udokanma-anthony-nyenke-99864b412_powerbi-dataanalytics-dataanalyst-activity-7495112484736086016-PwgL?utm_medium=ios_app&rcm=ACoAAGkaO8QBPiadmsQcNs6YyXb4qds1reLdTbk&utm_source=social_share_send&utm_campaign=copy_link)
+[Watch the dashboard walkthrough on LinkedIn](https://www.linkedin.com/posts/udokanma-anthony-nyenke-99864b412_powerbi-dataanalytics-datavisualization-activity-7495128542134038528-pe-i?utm_medium=ios_app&rcm=ACoAAGkaO8QBPiadmsQcNs6YyXb4qds1reLdTbk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ## Author
 **Udokanma Anthony Nyenke**
